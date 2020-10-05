@@ -1,0 +1,19 @@
+.App-header {
+    background-color: #282c34;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    background-color: #1ed760;
+}
+
+.App-header-img{
+    height: 50px;
+    width: 55,398457583547557840616966580975px;
+}
+
+.App-Header-Title{
+    color: #282c34;
+    text-align: center;
+}
