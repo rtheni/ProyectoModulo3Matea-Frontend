@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ProyectoModulo3Matea-Frontend/static/css/main.02a02e5c.chunk.css",
+    "main.js": "/ProyectoModulo3Matea-Frontend/static/js/main.5e82ac0f.chunk.js",
+    "main.js.map": "/ProyectoModulo3Matea-Frontend/static/js/main.5e82ac0f.chunk.js.map",
+    "runtime-main.js": "/ProyectoModulo3Matea-Frontend/static/js/runtime-main.c58ba68f.js",
+    "runtime-main.js.map": "/ProyectoModulo3Matea-Frontend/static/js/runtime-main.c58ba68f.js.map",
+    "static/js/2.386b3fda.chunk.js": "/ProyectoModulo3Matea-Frontend/static/js/2.386b3fda.chunk.js",
+    "static/js/2.386b3fda.chunk.js.map": "/ProyectoModulo3Matea-Frontend/static/js/2.386b3fda.chunk.js.map",
+    "index.html": "/ProyectoModulo3Matea-Frontend/index.html",
+    "precache-manifest.f7cc6578ac85d0a66d8c64e7c30d1e12.js": "/ProyectoModulo3Matea-Frontend/precache-manifest.f7cc6578ac85d0a66d8c64e7c30d1e12.js",
+    "service-worker.js": "/ProyectoModulo3Matea-Frontend/service-worker.js",
+    "static/css/main.02a02e5c.chunk.css.map": "/ProyectoModulo3Matea-Frontend/static/css/main.02a02e5c.chunk.css.map",
+    "static/js/2.386b3fda.chunk.js.LICENSE.txt": "/ProyectoModulo3Matea-Frontend/static/js/2.386b3fda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c58ba68f.js",
+    "static/js/2.386b3fda.chunk.js",
+    "static/css/main.02a02e5c.chunk.css",
+    "static/js/main.5e82ac0f.chunk.js"
+  ]
+}
